@@ -8,5 +8,6 @@ class Codechef
         int cost = area*7;
         System.out.println(area);
         System.out.print(cost + "$");
+        System.out.println("hello");
 	}
 }
