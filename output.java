@@ -16,6 +16,7 @@ class Codechef
 
 		System.out.println("hello");
 		System.out.println("hello keshav");
+		System.out.println(2+2);
 
 		
 		
