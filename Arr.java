@@ -6,7 +6,7 @@ public class Arr {
     
     String[] str = new String[4];
     for (int i = 0; i<str.length;i++){
-        str[i]=inp.next();
+        str[i]=inp.nextLine();
     } 
     
 System.out.println(Arrays.toString(str));
